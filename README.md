@@ -1,4 +1,4 @@
-![Alt ou título da imagem](https://github.com/Campos-Silva/dashboard_power_bi_relatorios_vendas_de_carros_usados_/blob/main/1_2_juntos.jpg)
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/analise_de_vendas_de_uma_rede_de_supermercados/main/dashboard_topo.png)
 
 # Dashboard Power BI: 2 - Análise de vendas de uma rede de supermercados
 
