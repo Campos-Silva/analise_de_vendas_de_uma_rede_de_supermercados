@@ -2,9 +2,9 @@
 
 # Dashboard Power BI: 2 - Análise de vendas de uma rede de supermercados
 
-### Informações sobre o Dashboard
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/analise_de_vendas_de_uma_rede_de_supermercados/main/supermarket_1.jpg)
 
-![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/Projeto_1_Precificacao_de_Veiculos_Usados/main/carro_variaveis_e.png)
+### Informações sobre o Dashboard
 
 Esse dashboard construí a partir das aulas cursadas na FLAI. Esse dashboard contém dados de vendas de uma rede de supermercados. Os dados utilizados para a construção do dashboard são de origem do site do Kaggle. 
 
