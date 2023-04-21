@@ -16,7 +16,7 @@ Para acessar todos os recursos interativos desse Dasboard clique [aqui](https://
 
 2-	A quantidade total de produtos vendidos nessa rede de mercados nesses três meses são de 5510;
 
-3-	O faturamento total nessa rede de mercados nos três meses analisados doi de $323 Mil;
+3-	O faturamento total nessa rede de mercados nos três meses analisados foi de $323 Mil;
 
 4- O maior dia de faturamento foi no dia 7 de fevereiro de 2019.
 
